@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df9f604d89e8654ab66ff9743f4cd3b, type: 3}
+  m_Name: Level 10
+  m_EditorClassIdentifier: 
+  _background: {fileID: 0}
+  _boxesTypesToSpawn:
+  - {fileID: -7192709806192683476, guid: 0ecacb7e8bf561a49acd43aecd4ad296, type: 3}
+  _maxNumberOfBoxes: 20
+  _number: 10
+  _spawnDelaySeconds: 3
+  _levelDamageModifier: 4
+  _stunDuration: 4
